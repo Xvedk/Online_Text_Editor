@@ -1,1 +1,2 @@
 # Online_Text_Editor
+An online text editor, also known as a web-based text editor, is a software application accessible through a web browser that allows users to create, edit, and manipulate plain text or rich text documents directly within their web environment. These online text editors are often hosted on remote servers, making them accessible from any internet-connected device without the need for installation.
